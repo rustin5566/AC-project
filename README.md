@@ -1,6 +1,6 @@
 # 我的餐廳清單
  
- ![image]https://github.com/rustin5566/restaurant-project/blob/main/picture.png
+ ![image](https://github.com/rustin5566/restaurant-project/blob/main/picture.png)
 
 
 ## 介紹
